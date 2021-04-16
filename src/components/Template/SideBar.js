@@ -19,14 +19,14 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Padmalochan. I like building things.
-        I am a <a href="https://silicon.ac.in/">SITBBSR</a> graduate, KV Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p align="justify">Hi, I&apos;m Padmalochan. I like building things.
+        Accomplished Software Developer with 2 years of experience in development of
+        applications. Excels in every stage of the life cycle of software development,
+        including design creation, coding, debugging, testing and maintenance. Expert
+        in devising innovative and tailored solutions to assist businesses achieve their
+        goals in avariety of industries.Advanced skills and knowledge of leading
+        programming tools with a strong background in mathematics, algorithms, and
+        data-processing logic.
       </p>
       <ul className="actions">
         <li>
