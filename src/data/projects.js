@@ -1,47 +1,45 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
+    title: 'Pothole Challenge Application',
+    subtitle: 'Finalist Smart India Hackathon 2020',
     image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    date: '2020-08-28',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Built for a Ministry Of Goa as a part of SIH 2020. '
+      + 'Its an android application that will help users find and report a pothole, '
+      + 'near them so that can be repaired asap.'
+      + 'It covers the gaps between public, goverment and contractor.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
+    title: 'Smart Solutions For Hotels',
+    subtitle: 'Won 5th Place on BookingJinni Hacks',
     link: 'https://devpost.com/software/harvest',
     image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    date: '2020-04-28',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'With the help of Internet of Things, How a user can book a room in a '
+      + 'hotel and can check in into room without requirment of any physical '
+      + 'room key.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
+    title: 'Predicting Rainfall',
+    subtitle: 'Semifinalist, Chhatra Viswakarma Awards 2020',
     link: 'http://www.spacepotato.org',
     image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    date: '2019-12-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Precipitation is useful information for assessing vital water resources, agriculture, ecosystems and hydrology. '
+      + 'Data-driven model predictions using deep learning algorithms are promising for these purposes.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
+    title: 'Solution for Water Leakage in Pipelines',
+    subtitle: 'Top 20 in Smart Bhopal Hackathon 2019',
     image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    date: '2019-11-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'A Model that can give us the approx perticular location of water leakage in pipelines. '
+      + 'That will help goverment save a lot of water from wasting as well as money.',
   },
 ];
 
