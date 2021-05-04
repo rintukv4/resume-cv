@@ -29,7 +29,7 @@ const Resume = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="resume">Resume</Link></h2>
-          <a style={{ marginLeft: 650, marginTop: 0 }} href="https://drive.google.com/file/d/10mtmmpq5qcjRuS2L8wyARpXzfafFZAmA/view?usp=sharing">Download My Resume</a>
+          <a style={{ marginLeft: 500, marginTop: 0 }} href="https://drive.google.com/file/d/10mtmmpq5qcjRuS2L8wyARpXzfafFZAmA/view?usp=sharing">Download My Resume</a>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
