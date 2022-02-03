@@ -8,6 +8,21 @@ const skills = [
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
+    title: 'Spark',
+    competency: 3,
+    category: ['BigData'],
+  },
+  {
+    title: 'Scala',
+    competency: 3,
+    category: ['BigData'],
+  },
+  {
+    title: 'Airflow',
+    competency: 3,
+    category: ['BigData', 'Orchestration'],
+  },
+  {
     title: 'Node.JS',
     competency: 3,
     category: ['Web Development', 'Javascript'],

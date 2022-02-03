@@ -1,5 +1,14 @@
 const positions = [
   {
+    company: 'Tata Consultancy Services',
+    position: 'System Engineer',
+    link: 'https://tcs.com',
+    daterange: 'May 2021 - Present',
+    points: [
+      'Working on BigData Analysis.',
+    ],
+  },
+  {
     company: 'Nexyite Pvt ltd',
     position: 'System Application Developer',
     link: 'https://nexyite.com',
