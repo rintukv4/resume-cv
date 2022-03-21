@@ -22,4 +22,5 @@ const positions = [
   },
 ];
 
+
 export default positions;
